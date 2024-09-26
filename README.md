@@ -1,0 +1,1 @@
+This repository has starter projects for learning Tailwindcss from scratch.
